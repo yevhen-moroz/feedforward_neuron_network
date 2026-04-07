@@ -1,8 +1,8 @@
 # 🧠 Feedforward Neuron Network
 
-This project implements a **Feedforward Neuron Network ** from scratch using Python.
+This project implements a Feedforward Neuron Network from scratch using Python.
 
-A feedforward neural network is one of the simplest types of artificial neural networks where information moves only in one direction — from input to output, without cycles. :contentReference[oaicite:0]{index=0}
+A feedforward neural network is one of the simplest types of artificial neural networks where information moves only in one direction — from input to output, without cycles. 
 
 ---
 
