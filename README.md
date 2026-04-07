@@ -1,6 +1,6 @@
-# 🧠 Feedforward Neural Network
+# 🧠 Feedforward Neuron Network
 
-This project implements a **Feedforward Neural Network (FFNN)** from scratch using Python.
+This project implements a **Feedforward Neuron Network ** from scratch using Python.
 
 A feedforward neural network is one of the simplest types of artificial neural networks where information moves only in one direction — from input to output, without cycles. :contentReference[oaicite:0]{index=0}
 
@@ -45,4 +45,13 @@ This project focuses on **learning fundamentals**, not using high-level framewor
 
 ---
 
-## 📂 Project Structure
+## 🚀 Project Overview
+
+The goal of this project is to understand and implement the core principles of neural networks, including:
+- Forward propagation  
+- Activation functions  
+- Loss calculation  
+- Basic training logic  
+
+The model was trained on normalized input data (height and weight), scaled relative to average values (170 cm and 61 kg).
+As a result, the neural network is capable of **predicting a person's gender with acceptable accuracy**, demonstrating the effectiveness of basic neural network methods for classification tasks.
